@@ -1,5 +1,5 @@
 # news4money
-Hello random Github people and hello prospective employers,
+To the GitHub community and prospective employers,
 
 
 This is my Final Year Project in my University. 
